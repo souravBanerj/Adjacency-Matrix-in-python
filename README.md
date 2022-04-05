@@ -1,1 +1,3 @@
 # Adjacency-Matrix-in-python
+In graph theory and computer science, an adjacency matrix is a square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph. In the special case of a finite simple graph, the adjacency matrix is a (0,1)-matrix with zeros on its diagonal.
+The adjacency matrix, sometimes also called the connection matrix, of a simple labeled graph is a matrix with rows and columns labeled by graph vertices, with a 1 or 0 in position according to whether and. are adjacent or not. For a simple graph with no self-loops, the adjacency matrix must have 0s on the diagonal.
